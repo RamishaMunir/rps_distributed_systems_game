@@ -43,6 +43,8 @@ Also ensure the image files (rock.png, paper.png, scissor.png) are present in th
 
 📚 Course Context:
 
-This project was developed as part of a Distributed Systems course to demonstrate basic concepts through a practical, interactive multiplayer game in September, 2022
+This project was developed as part of a Distributed Systems course to demonstrate basic concepts through a practical, interactive multiplayer game.
+
+📅 Completed: September 2022
 
 
