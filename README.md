@@ -21,7 +21,7 @@ This is a two-player Rock Paper Scissors game built using Python sockets and Tki
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/ramishamunir/rock_paper_scissors_ds_game.git
+git clone https://github.com/RamishaMunir/rps_distributed_systems_game.git
 cd rock_paper_scissors_ds_game
 ```
 
